@@ -1,0 +1,47 @@
+div {
+    text-align: center;
+    padding: 50px;
+}
+
+img {
+    width: 190px;
+}
+
+p,
+h1,
+h2,
+h3,
+a {
+
+    font-family: Tahoma;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+    height: 28px;
+    width: 930px;
+    margin: auto;
+}
+
+a {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: rgb(4, 175, 4);
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+hr {
+    color: #d5d5d5;
+}
+
+span {
+    font-weight: bold;
+}
